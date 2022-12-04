@@ -1,11 +1,4 @@
 .idea
-<<<<<<< HEAD
-<<<<<<< HEAD
 venv
 .DS_Store
-=======
-main.py
->>>>>>> parent of 7a83fe3 (Reset project)
-=======
-main.py
->>>>>>> parent of 7a83fe3 (Reset project)
+__pycache__
